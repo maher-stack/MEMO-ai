@@ -1,0 +1,12 @@
+{
+  "name": "MR AI - المنصة التعليمية الذكية",
+  "short_name": "MR AI",
+  "description": "منصة تعليمية متكاملة لطلاب الثانوية العامة والأزهرية تدعم الذكاء الاصطناعي وتنظيم المذاكرة والجانب الديني.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "status_bar_color": "#0f172a"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "MR AI - المنصة التعليمية الذكية",
+  "short_name": "MR AI",
+  "description": "منصة تعليمية متكاملة تدعم الذكاء الاصطناعي لطلاب الثانوية",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3413/3413535.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3413/3413535.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3413/3413535.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "جدول المذاكرة",
+      "url": "planner",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "المعلم الذكي",
+      "url": "ai",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/4712/4712109.png", "sizes": "192x192" }]
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "ar-SA",
+  "dir": "rtl"
+}

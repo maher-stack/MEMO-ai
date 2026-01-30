@@ -1,0 +1,21 @@
+{
+  "packageId": "com.mrai.app",
+  "host": "mr-ai.vercel.app",
+  "name": "MR AI",
+  "launcherName": "MR AI",
+  "displayMode": "standalone",
+  "themeColor": "#0f172a",
+  "navigationColor": "#0f172a",
+  "backgroundColor": "#0f172a",
+  "enableNotifications": true,
+  "shortcuts": [
+    {
+      "name": "الجدول الدراسي",
+      "short_name": "الجدول",
+      "url": "/planner",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "replacesDefaultSmsApp": false
+}
